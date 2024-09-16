@@ -16,8 +16,6 @@ Features
 
 ROADMAP:
 
-Expanding on the idea of Eos with special attention to managing bounties, here are some key considerations and features that could be implemented:
-
 1. Bounty Creation System:
    - Allow project managers or community leaders to create bounties for specific tasks or features.
    - Include fields for bounty description, required skills, difficulty level, estimated time commitment, and reward amount.
